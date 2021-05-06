@@ -1,2 +1,2 @@
-# BrainGeoNet
+# BrainsurfConv
 The code is coming...
